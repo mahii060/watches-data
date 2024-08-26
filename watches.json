@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand": "Rolex",
+    "model": "Submariner",
+    "price": 9500,
+    "features": {
+      "waterResistance": "300 meters",
+      "movement": "Automatic",
+      "caseMaterial": "Stainless Steel",
+      "dialColor": "Black"
+    }
+  },
+  {
+    "id": 2,
+    "brand": "Omega",
+    "model": "Speedmaster",
+    "price": 5500,
+    "features": {
+      "waterResistance": "50 meters",
+      "movement": "Manual",
+      "caseMaterial": "Stainless Steel",
+      "dialColor": "Black"
+    }
+  },
+  {
+    "id": 3,
+    "brand": "Tag Heuer",
+    "model": "Carrera",
+    "price": 4200,
+    "features": {
+      "waterResistance": "100 meters",
+      "movement": "Automatic",
+      "caseMaterial": "Titanium",
+      "dialColor": "Blue"
+    }
+  },
+  {
+    "id": 4,
+    "brand": "Seiko",
+    "model": "Prospex",
+    "price": 600,
+    "features": {
+      "waterResistance": "200 meters",
+      "movement": "Automatic",
+      "caseMaterial": "Stainless Steel",
+      "dialColor": "Green"
+    }
+  },
+  {
+    "id": 5,
+    "brand": "Casio",
+    "model": "G-Shock",
+    "price": 150,
+    "features": {
+      "waterResistance": "200 meters",
+      "movement": "Quartz",
+      "caseMaterial": "Resin",
+      "dialColor": "Black"
+    }
+  }
+]
